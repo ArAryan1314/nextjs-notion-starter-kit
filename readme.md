@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://transitivebullsh.it/nextjs-notion-starter-kit>
+>
+> [![Standard CI](https://github.com/ArAryan1314/nextjs-notion-starter-kit/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/nextjs-notion-starter-kit/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
     <img alt="Example article page" src="https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg" width="689">
